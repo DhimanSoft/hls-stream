@@ -18,8 +18,14 @@ A simple HTTP Live Streaming (HLS) server built with Node.js and Express that se
 ## Installation
 
 1. Clone the repository:
+   Windows Server:
 ```bash
-git clone <repository-url>
+git clone https://github.com/DhimanSoft/hls-stream.git
+cd test-hls
+```
+   Ubuntu/Mac Server:
+```bash
+git clone git@github.com:DhimanSoft/hls-stream.git
 cd test-hls
 ```
 
